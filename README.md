@@ -20,7 +20,11 @@
          
          <li><a href="index.html"</li>
          
-         <li 
+         <li class="active"><a href=index.html">Home</a></li>
+         
+         <li class="active"><a href=about.html">About</a></li>
+         
+         <li class="active"><a href=resume.html">Resume</a></li>
          
          </ul>
          
