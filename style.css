@@ -1,5 +1,14 @@
+@import url(bootstrap.css);
+
 body {
-  margin: 0;
-  font-size: 13px;
-  color: #CC9B60;
-  background-color: #2D0880;
+     background-color: Crimson;
+}
+
+h1 {
+     color: LightBlue;
+     font-size: 25;
+}
+
+p {
+     color: Black;
+}
